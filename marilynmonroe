@@ -8,7 +8,7 @@ xmlns:owl="http://www.w3.org/2002/07/owl#"
 xmlns:eac-cpf="http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/">
 
 <rdf:Description
-rdf:about="URI????"">
+rdf:about="https://github.com/bluebell94/marilyndiptych/blob/master/marilynmonroe">
 <eac-cpf:entity>Person</eac-cpf:entity>
 <eac-cpf:nameEntry>Marilyn Monroe</eac-cpf:nameEntry>
 <eac-cpf:nameEntryParallel>Norma Jeane Mortenson Baker</eac-cpf:nameEntryParallel>
