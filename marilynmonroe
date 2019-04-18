@@ -1,1 +1,43 @@
+<?xml version="1.0"?>
 
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc= "http://purl.org/dc/elements/1.1/"
+xmlns:dbo="http://dbpedia.org/ontology/"
+xmlns:owl="http://www.w3.org/2002/07/owl#" 
+xmlns:eac-cpf="http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/">
+
+<rdf:Description
+rdf:about="URI????"">
+<eac-cpf:entity>Person</eac-cpf:entity>
+<eac-cpf:nameEntry>Marilyn Monroe</eac-cpf:nameEntry>
+<eac-cpf:nameEntryParallel>Norma Jeane Mortenson Baker</eac-cpf:nameEntryParallel>
+<eac-cpf:chronItem rdf:parseType="Resource">
+	<eac-cpf:event>Birth</eac-cpf:event>
+	<eac-cpf:place rdf:resource="http://http://dbpedia.org/page/Los_Angeles/">
+	<eac-cpf:date>01/06/1926</eac-cpf:date>
+</eac-cpf:chronItem>
+<eac-cpf:chronItem rdf:parseType="Resource">
+	<eac-cpf:event>Death</eac-cpf:event>
+	<eac-cpf:place rdf:resource="http://dbpedia.org/page/Los_Angeles"/>
+	<eac-cpf:date>05/09/1962</eac-cpf:date>
+</eac-cpf:chronItem>
+<eac-cpf:biogHist>Marilyn Monroe (1926-1962) Model, actress, singer and arguably one of the most famous women of the twentieth century. Monroe has become an iconic representative of fame and female beauty. She is widely regarded as one of most influential figures in American culture.
+</eac-cpf:biogHist>
+<dbo:occupation>Actress</
+dbo:occupation>
+<dbo:activeYears>1944-1962</dbo:activeYears>
+<dbo:significantProject>Dangerous Years</dbo:significantProject>
+<eac-cpf:resourceRelation rdf:parseType="Resource">
+<eac-cpf:resourceRelationType>museOf</eac-cpf:resourceRelationType>
+	<dc:description>
+	The Marilyn Diptych (1962) is a silkscreen painting by American pop artist Andy Warhol depicting Marilyn Monroe. The piece is one of the artist's most noted works. It is in the collection of the Tate.
+	
+	</dc:description>
+	<dcterms:relation rdf:resource="https://www.tate.org.uk/art/artworks/warhol-marilyn-diptych-t03093"/>
+	<dc:date>1962</dc:date>
+</eac-cpf:resourceRelation>
+<owl:sameAs>https://viaf.org/viaf/27069077/</owl:sameAs> 
+<owl:differentFrom>https://viaf.org/viaf/121315614/</owl:differentFrom>
+</rdf:Description>
+</rdf:RDF>
