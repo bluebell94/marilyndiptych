@@ -14,7 +14,7 @@ rdf:about="https://github.com/bluebell94/marilyndiptych/blob/master/marilynmonro
 <eac-cpf:nameEntryParallel>Norma Jeane Mortenson Baker</eac-cpf:nameEntryParallel>
 <eac-cpf:chronItem rdf:parseType="Resource">
 	<eac-cpf:event>Birth</eac-cpf:event>
-	<eac-cpf:place rdf:resource="http://http://dbpedia.org/page/Los_Angeles/">
+	<eac-cpf:place rdf:resource="http://http://dbpedia.org/page/Los_Angeles/"></eac-cpf:place>
 	<eac-cpf:date>01/06/1926</eac-cpf:date>
 </eac-cpf:chronItem>
 <eac-cpf:chronItem rdf:parseType="Resource">
@@ -24,8 +24,7 @@ rdf:about="https://github.com/bluebell94/marilyndiptych/blob/master/marilynmonro
 </eac-cpf:chronItem>
 <eac-cpf:biogHist>Marilyn Monroe (1926-1962) Model, actress, singer and arguably one of the most famous women of the twentieth century. Monroe has become an iconic representative of fame and female beauty. She is widely regarded as one of most influential figures in American culture.
 </eac-cpf:biogHist>
-<dbo:occupation>Actress</
-dbo:occupation>
+<dbo:occupation>Actress</dbo:occupation>
 <dbo:activeYears>1944-1962</dbo:activeYears>
 <dbo:significantProject>Dangerous Years</dbo:significantProject>
 <eac-cpf:resourceRelation rdf:parseType="Resource">
@@ -34,7 +33,7 @@ dbo:occupation>
 	The Marilyn Diptych (1962) is a silkscreen painting by American pop artist Andy Warhol depicting Marilyn Monroe. The piece is one of the artist's most noted works. It is in the collection of the Tate.
 	
 	</dc:description>
-	<dcterms:relation rdf:resource="https://www.tate.org.uk/art/artworks/warhol-marilyn-diptych-t03093"/>
+	<dcterms:relation rdf:resource="https://www.tate.org.uk/art/artworks/warhol-marilyn-diptych-t03093"/></dcterms:relation>
 	<dc:date>1962</dc:date>
 </eac-cpf:resourceRelation>
 <owl:sameAs>https://viaf.org/viaf/27069077/</owl:sameAs> 
