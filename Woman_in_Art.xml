@@ -28,8 +28,8 @@ xmlns:skos="https://www.w3.org/2004/02/skos/">
 		<dc:description>
 		These artwork is an example of the influence of Marilyn Monroe on the culture of her time, that survived also her death.
 		</dc:description>
-		<skos:related rdf:resource="http://dbpedia.org/page/Pop_art"/>
-		<skos:related rdf:resource="http://dbpedia.org/page/Marilyn_Monroe"/>
-		<skos:example rdf:resource="https://www.moma.org/collection/works/79737"/>
+	<skos:related rdf:resource="http://dbpedia.org/page/Pop_art"/>
+	<skos:related rdf:resource="http://dbpedia.org/page/Marilyn_Monroe"/>
+	<skos:example rdf:resource="https://www.moma.org/collection/works/79737"/>
 </rdf:Description>
 </rdf:RDF>
