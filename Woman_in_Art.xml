@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+xmlns="https://github.com/bluebell94/marilyndiptych/blob/master/Woman_in_Art"
+xmlns:ns="http://creativecommons.org/ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:eac-cpf="http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/"
+xmlns:owl="http://www.w3.org/2002/07/owl#">
+
+<rdf:Description rdf:about="https://github.com/bluebell94/marilyndiptych/blob/master/Woman_in_Art">
+	<rdfs:label>The influence of a woman in the art </rdfs:label>
+	<dc:description>How Marilyn Monroe has influenced the art in general, more specifically the pop art movement and the artworks of Andy Warhol</dc:description>
+	<rdfs:type>Concept</rdfs:type>
+	<dc:contributor rdf:resorce="https://github.com/bluebell94/marilyndiptych/blob/master/marilynmonroe"/>
+	<dc:contributor rdf:resource="http://dbpedia.org/page/Andy_Warhol"/>
+	<dc:subject>The importance of the role of Marilyn Monroe</dc:subject>
+	<dc:coverage>
+		<dc:place>
+			From the United States of America to the entire World.
+		</dc:place>
+		<dc:date>
+			1962 - Nowadays
+		</dc:date>
+	</dc:coverage>
+	<dcterms:relation rdf:resource="www.tate.org.uk/art/artworks/warhol-marilyn-diptych-t03093"/>
+		<dc:description>
+		These artwork is an example of the influence of Marilyn Monroe on the culture of her time, that survived also her death.
+		</dc:description>
+		<skos:related rdf:resource="http://dbpedia.org/page/Pop_art"/>
+		<skos:related rdf:resource="http://dbpedia.org/page/Marilyn_Monroe"/>
+		<skos:example rdf:resource="https://www.moma.org/collection/works/79737"/>
+</rdf:Description>
+</rdf:RDF>
