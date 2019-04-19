@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <rdf:RDF
-xmlns="https://github.com/bluebell94/marilyndiptych/blob/master/Woman_in_Art"
+xmlns="https://github.com/bluebell94/marilyndiptych/blob/master/Woman_in_Art" xml:base="https://github.com/bluebell94/marilyndiptych/blob/master/Woman_in_Art"
 xmlns:ns="http://creativecommons.org/ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
 xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 xmlns:dc="http://purl.org/dc/elements/1.1/"
 xmlns:eac-cpf="http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/"
-xmlns:owl="http://www.w3.org/2002/07/owl#">
+xmlns:skos="https://www.w3.org/2004/02/skos/">
 
 <rdf:Description rdf:about="https://github.com/bluebell94/marilyndiptych/blob/master/Woman_in_Art">
 	<rdfs:label>The influence of a woman in the art </rdfs:label>
